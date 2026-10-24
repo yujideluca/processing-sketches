@@ -1,6 +1,6 @@
 # Automated bug-finding tests: processing-sketches
 
-Last reviewed: HEAD of main 2026-10-24
+Last reviewed: 06475b0 2026-10-24
 Created by the skill `gerar-teste-automatizado` (create mode).
 
 ## Analysis summary
